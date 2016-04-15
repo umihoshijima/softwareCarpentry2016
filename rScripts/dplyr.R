@@ -1,4 +1,5 @@
 install.packages('dplyr')
+#load my favorite package
 library(dplyr)
 
 dat <- read.csv(filename <- file.choose())
